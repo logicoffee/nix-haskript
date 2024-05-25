@@ -14,4 +14,4 @@ Scripting Haskell with Nix easily!
     - `direnv allow`
 - Add required packages.
 - Run.
-    `runghc main.hs`
+    - `runghc main.hs`
