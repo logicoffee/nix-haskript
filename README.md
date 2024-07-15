@@ -15,3 +15,11 @@ Scripting Haskell with Nix easily!
 - Add required packages.
 - Run.
     - `runghc main.hs`
+
+## Docker
+
+You can dockerize the script.
+
+```
+docker build -t haskript .
+```
